@@ -1,116 +1,115 @@
-[
-  {
-    "link": "https://github.com/aryamitra06/ml-sales-prediction",
-    "tags": "Machine Learning, Jupyter Notebook",
-    "title": "Sales Prediction",
-    "description": "Machine Learning to Predict Sales for Three types(TV, Radio, Newspaper) of Advertising."
-  },
-  {
-    "link": "https://github.com/aryamitra06/iot-smart-weather-monitoring-system",
-    "tags": "ReactJS, ChartJS, OpenWeatherAPI",
-    "title": "iWeather",
-    "description": "Smart Weather Monitoring System with ChartJS and OpenWeatherAPI."
-  },
-  {
-    "link": "https://github.com/aryamitra06/apnikahaani",
-    "tags": "ReactJS, MongoDB, NodeJS, Google OAuth, TensorflowJS",
-    "title": "Apnikahaani",
-    "description": "AI based Social media platform for sharing stories, life events."
-  },
-  {
-    "link": "https://github.com/aryamitra06/datascience-fandango-scam",
-    "tags": "Python, Data Science",
-    "title": "Fandango Scam",
-    "description": "Fandango Scam for showing higher fake ratings in worst movies to sell tickets."
-  },
-  {
-    "link": "https://github.com/aryamitra06/java-student-management-system",
-    "tags": "Java, Servlet, JSP, SQL",
-    "title": "Student Management",
-    "description": "Student Management System with CRUD operations (Add Student, Edit, Delete)."
-  },
-  {
-    "link": "https://github.com/aryamitra06/markswise",
-    "tags": "PHP, SQL",
-    "title": "Markswise",
-    "description": "An institution management full stack LAMP web application, helps to add students' marks with update and delete. It supports both student and institution side."
-  },
-  {
-    "link": "https://github.com/aryamitra06/spooch",
-    "tags": "PHP, SQL",
-    "title": "Spooch",
-    "description": "An end-to-end encrypted cloud based modern UI application takes user's notes and helps to track activity!"
-  },
-  {
-    "link": "https://github.com/aryamitra06/codefront-ide",
-    "tags": "JavaScript, FileServer",
-    "title": "CodeFront IDE",
-    "description": "Fast and light-weight, easy to use, responsive LIVE online code editor for frontend development supports HTML, CSS and JavaScript."
-  },
-  {
-    "link": "https://github.com/aryamitra06/versegrafia",
-    "tags": "PHP, SQL",
-    "title": "Versegrafia",
-    "description": "A social media cum forum platform made for photographers as well as photo bloggers."
-  },
-  {
-    "link": "https://github.com/aryamitra06/7bit-hamming-code-solver",
-    "tags": "JavaScript",
-    "title": "7-bit Hamming Solver",
-    "description": "A simple and lightweight web application which helps you to find, detect error in the specific bit and solve the error of the 7 bit hamming code entered by the user!"
-  },
-  {
-    "link": "https://github.com/aryamitra06/flask-todo-app",
-    "tags": "Python, Flask, SQLAlchemy",
-    "title": "Todo App",
-    "description": "Task management application, track activity."
-  },
-  {
-    "link": "https://github.com/aryamitra06/inotebook",
-    "tags": "ReactJS, NodeJS, MongoDB",
-    "title": "iNotebook",
-    "description": "A secured and authentic MERN stack application for saving notes on cloud."
-  },
-  {
-    "link": "https://github.com/aryamitra06/KIIT-digital-id-card-builder",
-    "tags": "HTML, CSS, JavaScript, File Server",
-    "title": "KIIT ID Card Builder",
-    "description": "An unofficial app for building and downloading KIIT id card live on the web!"
-  },
-  {
-    "link": "https://github.com/aryamitra06/textify",
-    "tags": "ReactJS",
-    "title": "Textify",
-    "description": "Helps to analyze texts by removing extra spaces, lower case, upper case and many more."
-  },
-  {
-    "link": "https://github.com/aryamitra06/Newsly",
-    "tags": "ReactJS, NewsAPI",
-    "title": "Newsly",
-    "description": "Simple and light weight news application."
-  },
-    {
-    "link": "https://github.com/aryamitra06/cryptote",
-    "tags": "ReactJS, CryptoJS",
-    "title": "cryptote",
-    "description": "The Private Anonymous Encrypted Secret Note!"
-  },
-  {
-    "link": "https://github.com/aryamitra06/CryptoStack",
-    "tags": "React Native, Expo",
-    "title": "CryptoStack",
-    "description": "Cross platform mobile application for tracking crypto currencies with the help of CoinGecko API."
-  },
-    {
-    "link": "https://github.com/aryamitra06/react-native-random-rgb-colour-generator",
-    "tags": "React Native",
-    "title": "RGB Color Generator",
-    "description": "A cross platform mobile phone application for generating random rgb colours."
-  },
-   {
-    "link": "https://github.com/aryamitra06/AI-Enabled-B2B-Invoice-Management-App",
-    "tags": "Java Servlet, ReactJS, Axios, Flask, Machine Learning",
-    "title": "B2B Invoice Management",
-    "description": "AI enabled invoice management app."
-  },
+[{
+		"link": "https://github.com/aryamitra06/ml-sales-prediction",
+		"tags": "Machine Learning, Jupyter Notebook",
+		"title": "Sales Prediction",
+		"description": "Machine Learning to Predict Sales for Three types(TV, Radio, Newspaper) of Advertising."
+	},
+	{
+		"link": "https://github.com/aryamitra06/iot-smart-weather-monitoring-system",
+		"tags": "ReactJS, ChartJS, OpenWeatherAPI",
+		"title": "iWeather",
+		"description": "Smart Weather Monitoring System with ChartJS and OpenWeatherAPI."
+	},
+	{
+		"link": "https://github.com/aryamitra06/apnikahaani",
+		"tags": "ReactJS, MongoDB, NodeJS, Google OAuth, TensorflowJS",
+		"title": "Apnikahaani",
+		"description": "AI based Social media platform for sharing stories, life events."
+	},
+	{
+		"link": "https://github.com/aryamitra06/datascience-fandango-scam",
+		"tags": "Python, Data Science",
+		"title": "Fandango Scam",
+		"description": "Fandango Scam for showing higher fake ratings in worst movies to sell tickets."
+	},
+	{
+		"link": "https://github.com/aryamitra06/java-student-management-system",
+		"tags": "Java, Servlet, JSP, SQL",
+		"title": "Student Management",
+		"description": "Student Management System with CRUD operations (Add Student, Edit, Delete)."
+	},
+	{
+		"link": "https://github.com/aryamitra06/markswise",
+		"tags": "PHP, SQL",
+		"title": "Markswise",
+		"description": "An institution management full stack LAMP web application, helps to add students' marks with update and delete. It supports both student and institution side."
+	},
+	{
+		"link": "https://github.com/aryamitra06/spooch",
+		"tags": "PHP, SQL",
+		"title": "Spooch",
+		"description": "An end-to-end encrypted cloud based modern UI application takes user's notes and helps to track activity!"
+	},
+	{
+		"link": "https://github.com/aryamitra06/codefront-ide",
+		"tags": "JavaScript, FileServer",
+		"title": "CodeFront IDE",
+		"description": "Fast and light-weight, easy to use, responsive LIVE online code editor for frontend development supports HTML, CSS and JavaScript."
+	},
+	{
+		"link": "https://github.com/aryamitra06/versegrafia",
+		"tags": "PHP, SQL",
+		"title": "Versegrafia",
+		"description": "A social media cum forum platform made for photographers as well as photo bloggers."
+	},
+	{
+		"link": "https://github.com/aryamitra06/7bit-hamming-code-solver",
+		"tags": "JavaScript",
+		"title": "7-bit Hamming Solver",
+		"description": "A simple and lightweight web application which helps you to find, detect error in the specific bit and solve the error of the 7 bit hamming code entered by the user!"
+	},
+	{
+		"link": "https://github.com/aryamitra06/flask-todo-app",
+		"tags": "Python, Flask, SQLAlchemy",
+		"title": "Todo App",
+		"description": "Task management application, track activity."
+	},
+	{
+		"link": "https://github.com/aryamitra06/inotebook",
+		"tags": "ReactJS, NodeJS, MongoDB",
+		"title": "iNotebook",
+		"description": "A secured and authentic MERN stack application for saving notes on cloud."
+	},
+	{
+		"link": "https://github.com/aryamitra06/KIIT-digital-id-card-builder",
+		"tags": "HTML, CSS, JavaScript, File Server",
+		"title": "KIIT ID Card Builder",
+		"description": "An unofficial app for building and downloading KIIT id card live on the web!"
+	},
+	{
+		"link": "https://github.com/aryamitra06/textify",
+		"tags": "ReactJS",
+		"title": "Textify",
+		"description": "Helps to analyze texts by removing extra spaces, lower case, upper case and many more."
+	},
+	{
+		"link": "https://github.com/aryamitra06/Newsly",
+		"tags": "ReactJS, NewsAPI",
+		"title": "Newsly",
+		"description": "Simple and light weight news application."
+	},
+	{
+		"link": "https://github.com/aryamitra06/cryptote",
+		"tags": "ReactJS, CryptoJS",
+		"title": "cryptote",
+		"description": "The Private Anonymous Encrypted Secret Note!"
+	},
+	{
+		"link": "https://github.com/aryamitra06/CryptoStack",
+		"tags": "React Native, Expo",
+		"title": "CryptoStack",
+		"description": "Cross platform mobile application for tracking crypto currencies with the help of CoinGecko API."
+	},
+	{
+		"link": "https://github.com/aryamitra06/react-native-random-rgb-colour-generator",
+		"tags": "React Native",
+		"title": "RGB Color Generator",
+		"description": "A cross platform mobile phone application for generating random rgb colours."
+	},
+	{
+		"link": "https://github.com/aryamitra06/AI-Enabled-B2B-Invoice-Management-App",
+		"tags": "Java Servlet, ReactJS, Axios, Flask, Machine Learning",
+		"title": "B2B Invoice Management",
+		"description": "AI enabled invoice management app."
+	}
 ]

@@ -88,5 +88,11 @@
     "tags": "ReactJS, NewsAPI",
     "title": "Newsly",
     "description": "Simple and light weight news application."
+  },
+    {
+    "link": "https://github.com/aryamitra06/cryptote",
+    "tags": "ReactJS, CryptoJS",
+    "title": "cryptote",
+    "description": "The Private Anonymous Encrypted Secret Note!"
   }
 ]

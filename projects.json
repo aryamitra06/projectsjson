@@ -13,9 +13,9 @@
   },
   {
     "link": "https://github.com/aryamitra06/apnikahaani",
-    "tags": "ReactJS, MongoDB, NodeJS, Google OAuth",
+    "tags": "ReactJS, MongoDB, NodeJS, Google OAuth, TensorflowJS",
     "title": "Apnikahaani",
-    "description": "Social media platform for sharing stories, life events."
+    "description": "AI based Social media platform for sharing stories, life events."
   },
   {
     "link": "https://github.com/aryamitra06/datascience-fandango-scam",
@@ -94,5 +94,23 @@
     "tags": "ReactJS, CryptoJS",
     "title": "cryptote",
     "description": "The Private Anonymous Encrypted Secret Note!"
-  }
+  },
+  {
+    "link": "https://github.com/aryamitra06/CryptoStack",
+    "tags": "React Native, Expo",
+    "title": "CryptoStack",
+    "description": "Cross platform mobile application for tracking crypto currencies with the help of CoinGecko API."
+  },
+    {
+    "link": "https://github.com/aryamitra06/react-native-random-rgb-colour-generator",
+    "tags": "React Native",
+    "title": "RGB Color Generator",
+    "description": "A cross platform mobile phone application for generating random rgb colours."
+  },
+   {
+    "link": "https://github.com/aryamitra06/AI-Enabled-B2B-Invoice-Management-App",
+    "tags": "Java Servlet, ReactJS, Axios, Flask, Machine Learning",
+    "title": "B2B Invoice Management",
+    "description": "AI enabled invoice management app."
+  },
 ]
